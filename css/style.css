@@ -1,0 +1,18 @@
+h1 {
+	font-weight: normal;
+	margin-left: 2%;
+}
+
+.bigger {
+	font-size: 100px;
+}
+
+#subHeader {
+	margin-left: 7%;
+	padding-bottom: 8px;
+}
+
+.nav-item {
+	font-size: 25px;
+	padding-right: 15px;
+}
